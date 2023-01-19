@@ -11,3 +11,10 @@
 ## Supervisor de PPCP
 
 Formado em Ciências Contábeis, com pós graduação em engenharia de produção, com mais de 24 de indústria farmacêutica na área de Planejamento, Logística e Almoxarifado, migrando de área para Data Science.
+
+**Links para me acharem:**
+* [Linkedin](www.linkedin.com/in/jose-claudio-vieira/)
+
+## Projetos
+
+* **[Avaliação de Imovéis em Vancouver - Canadá](http://bit.ly/3XxJxV0)**
